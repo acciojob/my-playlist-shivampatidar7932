@@ -2,8 +2,8 @@
 body{
 	background-color: rgb(204, 204, 204);
 }
-#heading-1{
-	margin-left:250px;
+h1{
+	text-align:center;
 }
 ul{
 	list-style-type:none;
@@ -52,5 +52,6 @@ video {
 	 max-width: -1px;
 	padding: 10px;
 	  align-items: left;
+	 background-color: rgb(255, 255, 255);
 
 }
